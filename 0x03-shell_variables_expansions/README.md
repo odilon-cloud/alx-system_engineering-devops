@@ -1,0 +1,1 @@
+answers on shell variables
